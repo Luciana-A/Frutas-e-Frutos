@@ -1,0 +1,7 @@
+.menu-item {      /* desparece as bolinhas dos li*/ 
+    list-style: none;
+}
+
+.menu-item:last-child .menu-link { 
+    margin-right: 0;  /* zerando a margem da direita*/ 
+}
